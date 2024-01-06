@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-built-using-tailwind-Nn5f_2d0f1)
 - Live Site URL: [live site URL](https://daryl-03.github.io/blog-prewiew-tailwind/)
 
 ## My process
